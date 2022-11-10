@@ -9,4 +9,4 @@ BigSur: AppleSSE::start returning, result = 1 joyida to'xtab qolish bor.<br>
 Monterey: Tekshirilmagan.<br>
 Ventura: Tekshirilmagan.<br><br>
 Shu sababli, agar Sizda Hackintosh yig'ish bo'yicha tajribangiz bo'lsa, ushbu repozitoriyani o'zingizga clone qilib oling:<br>
-git clone https://github.com/zypperlake/opencore/opencore.git
+git clone https://github.com/zypperlake/opencore-ryzen.git
