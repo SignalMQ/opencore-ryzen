@@ -9,4 +9,4 @@ Uni esa sizlar bilan ulashish uchun eng samarali usuli, ushbu repozitoriyani och
 <b>Monterey:</b> Tekshirilmagan.<br>
 <b>Ventura:</b> Tekshirilmagan.<br><br>
 Shu sababli, agar Sizda Hackintosh yig'ish bo'yicha tajribangiz bo'lsa, ushbu repozitoriyani o'zingizga clone qilib oling:<br>
-<a>git clone https://github.com/zypperlake/opencore-ryzen.git</a>
+<h>git clone https://github.com/zypperlake/opencore-ryzen.git</h>
